@@ -1,0 +1,9 @@
+body{
+	background-color: #000;
+}
+
+font{
+	color: #0f0;
+	text-shadow: 0 0 1px #5f9, 0 0 3px #5f9, 0 0 6px #5f9, 0 0 10px #5f9;
+	font-size: 5vw;
+}
